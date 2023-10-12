@@ -1,6 +1,6 @@
 # Apache Service Status Check
 
-This IaC Code performs a status check on Apache service every one minute
+This IaC Code performs a status check on Apache service every one minute and sends out email notification when Apache service is not running.
 
 # AWS Services used
 
